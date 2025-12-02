@@ -97,3 +97,4 @@ adclick.g.doubleclick.net
 play.ikariam.gameforge.com
 go.adapta.org
 base44.com
+adobe.com
