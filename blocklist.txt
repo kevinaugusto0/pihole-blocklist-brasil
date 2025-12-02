@@ -98,3 +98,5 @@ play.ikariam.gameforge.com
 go.adapta.org
 base44.com
 adobe.com
+br.gvgmall.com
+
