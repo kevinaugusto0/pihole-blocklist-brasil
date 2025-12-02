@@ -95,3 +95,4 @@ adclick.g.doubleclick.net
 
 # --- Adicionados manualmente ---
 play.ikariam.gameforge.com
+go.adapta.org
