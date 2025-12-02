@@ -1,0 +1,97 @@
+# Pi-hole Blocklist Brasil
+# Domínios brasileiros de ads, tracking, telemetria e push notifications
+# Manter um domínio por linha
+
+# --- Ad networks brasileiras ---
+
+analytics.uol.com.br
+adserver.uol.com.br
+ads.uol.com
+ads.globo.com
+pubads.globo.com
+ad.globo.com
+tagmanager.globo.com
+adserver.ig.com
+ads.terra.com.br
+ad.terra.com.br
+adserver.terra.com.br
+ads.r7.com
+ad.r7.com
+adserver.r7.com
+ads.bol.com.br
+ad.bol.com.br
+
+# --- Plataformas de tracking brasileiras ---
+
+static.spm.bz
+rnt.br
+trk.cl
+trk.mub1.com
+tracker.uol.com.br
+tracking.b8cdn.com
+tracking.lomadee.com
+trk.lomadee.com
+wl-track.com
+
+# --- Push ads / notificações indesejadas ---
+
+pushnews.online
+push-sdk.com
+br.pushworld.com
+pushnative.com
+pushgo.net
+pushengage.com
+
+# --- Click tracking / afiliados brasileiros ---
+
+afilio.com.br
+ad.afilio.com.br
+redir.afilio.com.br
+aflcx.com
+awempire.com
+tracking.awin.com
+br-trk.com
+click.hotwords.com.br
+hotwords.com.br
+hotwords-api.com.br
+
+# --- E-commerce grande no Brasil (tracking e ads) ---
+
+beacon.magazineluiza.com
+tracking.magazineluiza.com
+ads.afilio.com.br
+adnxs.com
+adswizz.com
+adservice.google.com.br
+pagead2.googlesyndication.com
+
+# --- Apps brasileiros (telemetria e ads exagerados) ---
+
+events.gocase.app
+track.mobills.com.br
+analytics.vivo.com.br
+analytics.tim.com.br
+app-measurement.com
+adjust.com
+
+# --- Redes internacionais amplamente usadas no BR ---
+
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+adnxs.com
+scorecardresearch.com
+quantserve.com
+rubiconproject.com
+criteo.com
+taboola.com
+outbrain.com
+
+# --- Domínios problemáticos de clickbait usados no BR ---
+
+advertising.yieldmo.com
+ad.doubleclick.net
+adclick.g.doubleclick.net
+
+# --- Adicionados manualmente ---
+play.ikariam.gameforge.com
